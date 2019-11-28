@@ -1,0 +1,49 @@
+11 12 13 14
+21 22 23 24
+31 32 33 34
+41 42 43 44
+
+-- Shots        -- Modifiers        -- Gameplay
+Drive       d       Volley      v       Error   e !
+Drop        p       Crosscourt  x       Stroke  #
+Lob         l       Nick        n       Let     ~
+Kill        k       Tight       q       No Let  -
+Fade        f
+Dig         g
+Serve       s
+Boast       b
+2-Wall      2b
+3-Wall      3b
+Trickle     tb
+Reverse     rb
+Backwall    bb
+Corkscrew   cb
+Skid        zb
+
+O James Willstrop
+X Patrick Rooney
+
+1
+o34vk 44g 23xpn
+x14xd 34vd
+x14d 14!p
+o44d 44g 34vd
+o34sl 24!l
+x44dq
+x44b 11!xl
+x31xd 34!vk
+x11d 21vd 11vtb
+o14d 11xl 24vx
+o14l 23xvn
+x44!p
+o14d 13xvn
+x44d 34v2b
+
+
+
+
+
+
+
+
+
